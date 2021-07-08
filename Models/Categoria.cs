@@ -1,4 +1,4 @@
-namespace MvcExample.Models
+namespace MvcExample
 {
     public class Categoria
     {
